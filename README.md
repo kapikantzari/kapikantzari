@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello!
+My name is Yun (Catherine) Cheng. I am a second-year CS Ph.D. student at Princeton University. I completed my M.S. in Machine Learning, B.S. in Computer Science, and B.S. in Mathematical Sciences from Carnegie Mellon University.
 
 <!--
 **kapikantzari/kapikantzari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
